@@ -19,6 +19,10 @@ export default function Home() {
           Here's an example of a Netlify Form! When you fill this out, the
           submissions can be found in the Netlify Admin site.
         </p>
+        <hr />
+        <p className="New tag">
+          This is a new tag to see if this works
+        </p>
         <FeedbackForm />
         <JokeBlock />
       </main>
